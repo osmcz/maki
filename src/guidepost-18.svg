@@ -40,21 +40,21 @@
     <path
        id="rect4150-4"
        d="m 348.11219,438.05717 -4.11322,-0.78171 0.0535,2.16978 3.52322,0.75729 c 2.89239,-0.98136 2.76633,-0.30181 0.5365,-2.14536 z"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24915959;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#444444;fill-opacity:1;stroke:#444444;stroke-width:0.24915959;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="431.23016"
        x="342.55063"
        height="17.978283"
        width="0.96424222"
        id="rect4140"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.02171803;stroke-opacity:1" />
+       style="opacity:1;fill:#444444;fill-opacity:1;stroke:#444444;stroke-width:0.02171803;stroke-opacity:1" />
     <path
        id="rect4150"
        d="m 337.49786,432.19283 4.55607,-0.0712 0,2.27804 -4.41369,0 c -2.66904,-1.485 -2.66711,-0.79385 -0.14238,-2.20685 z"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24915959;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#444444;fill-opacity:1;stroke:#444444;stroke-width:0.24915959;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="rect4150-0"
        d="m 348.55475,433.61758 -4.55607,-0.0712 0,2.27804 4.41369,0 c 2.66904,-1.485 2.66711,-0.79385 0.14238,-2.20685 z"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24915959;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#444444;fill-opacity:1;stroke:#444444;stroke-width:0.24915959;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
