@@ -1239,5 +1239,12 @@
       "draglift"
     ],
     "icon": "aerialway"
+    },
+    {
+    "name": "Guidepost",
+    "tags": [
+      "guidepost"
+    ],
+    "icon": "guidepost"
     }
 ]
